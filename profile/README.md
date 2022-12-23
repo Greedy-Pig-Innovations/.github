@@ -6,4 +6,13 @@ At Greedy Pig Innovations we focus on self-improvement, self-recreation, and sel
 
 
 Contact info:
--contact.us@greedy-pig-innov.com
+Email- contact.us@greedy-pig-innov.com
+
+
+Nelson Luna:
+Email- nelson.luna@greedy-pig-innov.com
+Github- https://github.com/xKurieita
+
+Juan Perez:
+Email- juan.perez@greedy-pig-innov.com
+Github- https://github.com/call-ofthe-wild
